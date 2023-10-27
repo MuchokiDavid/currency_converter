@@ -21,15 +21,18 @@ To use the Currency Converter locally, follow these steps:
 
 Clone the repository to your local machine:
 
-bash
+``` bash
+
 Copy code
 git clone https://github.com/dmmuchoki7/currency_converter.git
+```
 Open the project folder:
 
-bash
+``` bash
 Copy code
 cd currency_converter
 Open the index.html file in your preferred web browser.
+```
 
 ## Usage
 Select the source currency from the dropdown list.
