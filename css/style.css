@@ -1,0 +1,46 @@
+/* Reset default margin and padding for all elements */
+/*@import url(bootstap.css);*/
+
+*,*:after,*:before{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+body{
+    font-family: arial;
+    font-size: 16px;
+    margin: 0;
+    background: linear-gradient(to right bottom, #007673, #0e0066);
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+.container{
+    width: 600px;
+}
+h1{
+    font-size: 60px;
+    text-align: center;
+}
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.col{
+    width: 48%;
+}
+select,input{
+    width: 100%;
+    margin-bottom: 15px;
+    font-size: 20px;
+    padding: 8px 15px;
+    font-weight: 700;
+}
+
+#reslt:act{
+    pointer-events: none;
+}
