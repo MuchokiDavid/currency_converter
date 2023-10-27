@@ -12,11 +12,6 @@ Conversion Results: Displays the converted amount in real-time.
 Demo
 Here's a brief demo of the Currency Converter in action:
 
-## Currency Converter Demo
-```bash
-Live Demo:  https://dmmuchoki7.github.io/currency_converter/
-```
-
 ## Installation
 To use the Currency Converter locally, follow these steps:
 
