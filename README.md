@@ -1,4 +1,4 @@
-# CURRENCY CONVERTER PROJECT
+## Currency Conversion Using Exchangerate API
 Currency Converter is a web application that enables users to convert between various currencies. It provides up-to-date exchange rates from a reliable data source, allowing users to perform accurate currency conversions. Whether you're a traveler or a finance enthusiast, this tool makes it easy to work with international currencies.
 
 ## Description
