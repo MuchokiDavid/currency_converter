@@ -13,8 +13,9 @@ Demo
 Here's a brief demo of the Currency Converter in action:
 
 ## Currency Converter Demo
-
-Live Demo: 
+```bash
+Live Demo:  https://dmmuchoki7.github.io/currency_converter/
+```
 
 ## Installation
 To use the Currency Converter locally, follow these steps:
