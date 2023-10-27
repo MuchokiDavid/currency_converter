@@ -23,12 +23,12 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone 
+git clone https://github.com/dmmuchoki7/currency_converter.git
 Open the project folder:
 
 bash
 Copy code
-cd Phase-Individual-Project
+cd currency_converter
 Open the index.html file in your preferred web browser.
 
 ## Usage
